@@ -1,6 +1,10 @@
 # Get movie file last frame / 動画ファイルの最後のフレーム番号を取得
 
+EN
+
 Obtains the last frame number of the video file and displays it on the console.
+
+JP
 
 動画ファイルの最後のフレーム番号を取得してコンソールに表示します。
 
@@ -10,7 +14,11 @@ Obtains the last frame number of the video file and displays it on the console.
 
 ## Usage / 使い方
 
+EN
+
 Save video files for which you want to obtain the last frame number in the video directory (even multiple files can be obtained at once).
+
+JP
 
 videoディレクトリに最終フレーム番号を取得したい動画ファイルを保存します。（複数ファイルでも一括で取得可能）
 
